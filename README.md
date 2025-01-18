@@ -1,8 +1,3 @@
-## 📂 Table of Contents
-- [Project 1: University Admissions Data](#project-1-university-admissions-data)
-- [Project 2: Walmart Sales Analysis](#project-2-walmart-sales-analysis)
-- [More Coming Soon!](#more-coming-soon)
-
 ## 📊 GitHub Stats
 ![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskan-Chauhan2002&show_icons=true&theme=radical)
 
