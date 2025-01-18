@@ -1,7 +1,3 @@
-# 📌 MySQL Practice Projects
-
-Welcome to my MySQL practice projects repository! Here, I showcase various SQL queries and database analysis tasks that I have worked on. 🚀
-
 ## 📂 Table of Contents
 - [Project 1: University Admissions Data](#project-1-university-admissions-data)
 - [Project 2: Walmart Sales Analysis](#project-2-walmart-sales-analysis)
@@ -21,26 +17,6 @@ Welcome to my MySQL practice projects repository! Here, I showcase various SQL q
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
----
-
-## 📌 Project 1: University Admissions Data
-- **Description:** Analyzed university admissions data to uncover trends in enrollment across different years and fields of study.
-- **Tech Used:** MySQL, Power BI
-- **Key Insights:** 
-  - Total number of admissions per year
-  - Most popular fields of study
-  - Universities with the highest number of enrollments
-
-## 📌 Project 2: Walmart Sales Analysis
-- **Description:** Conducted a sales analysis using SQL queries to identify revenue trends and customer behavior.
-- **Tech Used:** MySQL, Power BI
-- **Key Insights:** 
-  - Best-selling product categories
-  - Sales trends over different time periods
-  - Customer purchase patterns
-
-## 📌 More Coming Soon!
-I am continuously working on new projects. Stay tuned for more updates! 🚀
 
 ---
 
