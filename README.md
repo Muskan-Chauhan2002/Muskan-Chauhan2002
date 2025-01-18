@@ -12,7 +12,7 @@ Welcome to my MySQL practice projects repository! Here, I showcase various SQL q
 
 ## 🎯 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-Chauhan2002&layout=compact&theme=tokyonight)
-
+![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)
 ## 📈 GitHub Activity Graph
 ![Muskan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muskan-Chauhan2002&theme=react-dark)
 
